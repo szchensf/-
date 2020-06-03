@@ -1,4 +1,4 @@
-﻿// vector_assign.cpp
+// vector_assign.cpp
 // compile with: /EHsc
 //#include <vector>
 #include"pch.h"
